@@ -16,14 +16,14 @@ const Projects = () => (
             </div>
             {/* STart from here */}
             <div className="image">
-                <ProjectTemplate Title="Communicator"
+                <ProjectTemplate Title="Communicator - From AHS"
                     Content="Been as a part of testing patient interaction and engagement service of Athena product through automated messaging, live operators, and a patient portal, athenaCommunicator helps medical service providers to engage patients in their care and reduce administrative work for staff."
                     Role="Manual and Automation Tester"
                     Technology="Agile">
                 </ProjectTemplate>
             </div>
             <div className="image">
-                <ProjectTemplate Title="Communicator"
+                <ProjectTemplate Title="Communicator - In Athena"
                      Content="Been as a part of testing patient interaction and engagement service through automated messaging, live operators, and a patient portal, athenaCommunicator helps medical service providers to engage patients in their care and reduce administrative work for staff."
                      Role="Manual Tester"
                      Technology="Agile">
